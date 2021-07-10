@@ -28,12 +28,12 @@
                 if (path.endsWith('index.html')) {
                     path = path.substr(path, path.length - 'index.html'.length);
                 }
-                var url = 'https://play.workadventu.re/_/global/edugugdan001.github.io/2021SS-B4-Projekt-MMT/T10.json';
+                var url = 'https://play.workadventu.re/_/global/'+window.location.host+path+'T10.json';
                 document.getElementById('mapLink').href = url;
                 document.getElementById('mapLink2').href = url;
                 document.getElementById('mapLink').innerText = url;
 
-                var mapUrl = 'https://play.workadventu.re/_/global/edugugdan001.github.io/2021SS-B4-Projekt-MMT/T10.json';
+                var mapUrl = window.location.protocol+'//'+window.location.host+path+'T10.json';
                 document.getElementById('mapUrl').innerText = mapUrl;
 
                 var gettingStartedLink = 'https://workadventu.re/getting-started?name=Map&mapUrl='+mapUrl;
