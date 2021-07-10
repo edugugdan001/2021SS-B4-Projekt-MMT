@@ -83,7 +83,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"collidable",
+                 "name":"collides",
                  "type":"bool",
                  "value":true
                 }],
