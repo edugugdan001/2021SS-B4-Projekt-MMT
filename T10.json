@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"T10.json"
         }
     },
  "height":34,
@@ -61,7 +61,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.yumpu.com\/de\/document\/read\/63336430\/labore-der-fh-karnten"
+                 "value":"https:\/\/www.fh-kaernten.at\/studium\/villach\/multimediatechnik-labor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/U3oGqpxjNjs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+                 "value":"https:\/\/www.youtube.com\/embed\/U3oGqpxjNjs"
                 }],
          "type":"tilelayer",
          "visible":true,
