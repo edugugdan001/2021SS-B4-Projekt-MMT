@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.fh-kaernten.at\/studium\/engineering-it\/bachelor\/informationstechnologien\/multimediatechnik"
+                 "value":"https:\/\/mmt.oswinjs.xyz\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.fh-kaernten.at\/studium\/villach\/multimediatechnik-labor"
+                 "value":"https:\/\/www.yumpu.com\/kiosk\/fh-kaernten\/labore-der-fh-karnten\/63336430"
                 }],
          "type":"tilelayer",
          "visible":true,
