@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/vr.cuas.at\/villach\/labor\/"
+                 "value":"..\/2021SS-B4-Projekt-MMT\/T10_EG.json"
                 }],
          "type":"tilelayer",
          "visible":true,
